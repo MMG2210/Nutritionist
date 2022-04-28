@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: AVVGAD744
+Build-Jdk: 17.0.2
+Implementation-Title: UserService
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.stackroute
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/nutritionist/userservice
+Created-By: Maven Integration for Eclipse
+
